@@ -1,0 +1,96 @@
+body {
+   font-family: Arial, Helvetica, sans-serif;
+   border: 1px solid black;
+   font-size: 90%;
+   background-color: rgb(118, 126, 105);
+   
+}
+
+
+.titulo {
+    text-align: center;
+}
+
+.cabecalho {
+    text-align: center;
+    letter-spacing: -1px;
+}
+            
+.corpo {
+  margin-left: 20%;
+  margin-top: 20px; 
+}
+
+.subtitulo, .paragrafo {
+    line-height: 20px;
+}
+
+.mundo-img {
+    margin-left: 36.5%;
+    border-radius: 45px;
+    width: 500px;
+    height: 450px;
+}
+
+.software-img {
+    margin-left: -0,5%;
+    border-radius: 45px;
+    width: 500px;
+    height: 450px;
+    margin-top: 5px;
+    margin-bottom: 25px;
+}
+
+button {
+    background-color: rgb(86, 127, 167);
+    height: 95px;
+    width: 800px;
+    margin-left: 11%;
+    border-radius: 45px;
+    font-weight: bold;
+}
+
+.serverclient {
+    margin-left: 34.5%;
+    margin-top: 50px;
+}
+
+.clients-img {
+    margin-left: 20.8%;
+    border-radius: 45px;
+    width: 500px;
+    height: 450px;
+    margin-top: 5px;
+    margin-bottom: 25px;
+}
+
+.servers-img {
+    margin-left: 20.5%;
+    border-radius: 45px;
+    width: 500px;
+    height: 450px;
+    margin-top: 5px;
+    margin-bottom: 25px;
+}
+
+.help-img {
+    margin-left: 37%;
+    border-radius: 45px;
+    width: 500px;
+    height: 450px;
+    margin-top: 5px;
+    margin-bottom: 25px;
+    background-image: ;
+}
+
+.ajuda-img {
+    float: right;
+}
+
+#tim {
+    width: 70px;
+    height: 60px;
+    margin-left: 0px;
+    border-radius: 10%;
+    background-color: rgb(118, 126, 105);   
+}
